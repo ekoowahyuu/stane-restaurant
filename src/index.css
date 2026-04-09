@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Ini warna custom biru sekawan media */
+@theme {
+  --color-brand-blue: #002b5b;
+}
