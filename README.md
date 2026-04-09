@@ -1,17 +1,25 @@
 # 🍽️ Stane - Jakarta Restaurants Directory
 
-Stane is a modern, responsive, and interactive web application built to discover the best restaurants in Jakarta. It features real-time filtering by cuisine, price tier, and operating hours, powered by a sleek minimalist UI and a Supabase backend.
+Stane adalah aplikasi web modern, responsif, dan interaktif yang dibangun untuk menjelajahi restoran terbaik di Jakarta. Menampilkan fitur filter real-time berdasarkan kategori kuliner, tingkatan harga, dan jam operasional, dikemas dengan UI minimalis yang premium dan backend dari Supabase.
 
-🌍 **Live Demo:** [Click Here to Visit Stane Restaurants]([https://stane-jakarta.netlify.app](https://stane-restaurants.netlify.app/))
-*(Note: Replace the link above with your actual Netlify link once deployed)*
+🌍 **Live Demo:** [https://stane-restaurants.netlify.app/](https://stane-restaurants.netlify.app/)
 
-## ✨ Key Features
-* **Dynamic Data Fetching:** Server-side fetching from Supabase for top-rated venues.
-* **Glassmorphism UI:** Premium aesthetic with frosted glass elements and dynamic image overlays.
-* **Responsive Design:** Fully optimized for Mobile, Tablet, and Desktop screens.
-* **Smart Filtering:** Client-side algorithms to check real-time open/close status.
+---
+
+## ✨ Fitur Utama
+* **Dynamic Data Fetching:** Pengambilan data langsung dari Supabase untuk tempat-tempat dengan rating tertinggi.
+* **Glassmorphism UI:** Estetika premium dengan elemen frosted glass dan overlay gambar dinamis.
+* **Responsive Design:** Optimasi penuh untuk layar Mobile, Tablet, hingga Desktop (Ultra-wide).
+* **Smart Filtering:** Algoritma sisi klien untuk memeriksa status buka/tutup restoran secara real-time.
+* **Hover Interaction:** Animasi kartu yang interaktif (Slide-up detail) untuk pengalaman pengguna yang lebih hidup.
 
 ## 🚀 Tech Stack
 * **Frontend:** React.js (Vite)
 * **Styling:** Tailwind CSS
-* **Backend/Database:** Supabase
+* **Database & Auth:** Supabase
+* **Deployment:** Netlify
+
+## 🛠️ Persyaratan Sistem (Lokal)
+Jika Anda ingin menjalankan proyek ini di lingkungan lokal:
+* **Node.js:** `v18.x` atau lebih tinggi
+* **Package Manager:** `npm` atau `yarn`
