@@ -2,7 +2,7 @@
 
 Stane is a modern, responsive, and interactive web application built to discover the best restaurants in Jakarta. It features real-time filtering by cuisine, price tier, and operating hours, powered by a sleek minimalist UI and a Supabase backend.
 
-🌍 **Live Demo:** [Click Here to Visit Stane](https://stane-jakarta.netlify.app)
+🌍 **Live Demo:** [Click Here to Visit Stane Restaurants]([https://stane-jakarta.netlify.app](https://stane-restaurants.netlify.app/))
 *(Note: Replace the link above with your actual Netlify link once deployed)*
 
 ## ✨ Key Features
